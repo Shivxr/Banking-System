@@ -7,7 +7,7 @@ This is a simple Banking System application built in Java, utilizing Object-Orie
 - **User Account Creation**: Allows new users to create an account with initial details.
 - **Deposit**: Users can deposit money into their account.
 - **Withdraw**: Users can withdraw money from their account, with proper authentication.
-- **Account Statement**: Users can view their account information and transaction history.
+- **Account Statement**: Users can view their account information.
 
 ## Project Structure
 
